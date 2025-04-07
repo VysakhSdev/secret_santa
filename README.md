@@ -8,3 +8,5 @@ npm start
 ## 🔧 How to Test
 Open your browser or use a tool like Postman and navigate to:
 http://localhost:3000/santa/generate
+## 🔧Results
+The result is saved as a `.csv` file inside the `/data` folder for the current year.
